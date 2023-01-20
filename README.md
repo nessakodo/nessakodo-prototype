@@ -1,7 +1,8 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
 
 
-##  𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙉𝙚𝙨𝙨𝙖 𝙆𝙤𝙙𝙤
+#  𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙉𝙚𝙨𝙨𝙖 𝙆𝙤𝙙𝙤 
+ ʕっ• ᴥ • ʔっ ˗ˋˏ ♡ ˎˊ˗
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 

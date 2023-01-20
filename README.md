@@ -55,8 +55,9 @@
 ## 𝘚𝘵𝘢𝘵𝘴
 
 #### 
-![Stats](https://github-readme-stats.vercel.app/api?username=nessakodo&theme={synthwave})
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme={synthwave})
+![Stats](https://github-readme-stats.vercel.app/api?username=nessakodo&theme=synthwave)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nessakodo&layout=compact&theme=synthwave)
 
 <!-- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue) -->

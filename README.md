@@ -3,9 +3,11 @@
 
 ## 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
 
+<!-- ff69b4 -->
+
 ![Node](https://img.shields.io/badge/Node.js-B7178C?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-!![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-B7178C?style=for-the-badge&logo=next.js&logoColor=white)
+!![React](https://img.shields.io/badge/react-%2320232a.svgB7178C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +31,7 @@
 
 ## 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴
 
-#### ![Bootstrap](https://img.shields.io/badge/bootstrap-%ff69b4.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)![Chakra](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)![Chakra](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## 𝘞𝘰𝘳𝘬𝘧𝘭𝘰𝘸 𝘛𝘰𝘰𝘭𝘴

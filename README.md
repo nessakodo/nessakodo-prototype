@@ -2,7 +2,7 @@
 
 
 #  𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙉𝙚𝙨𝙨𝙖 𝙆𝙤𝙙𝙤 
- ʕっ• ᴥ • ʔっ ˗ˋˏ ♡ ˎˊ˗
+# ʕっ• ᴥ • ʔっ♡ 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 

@@ -1,8 +1,6 @@
 # Hi there, I'm Nessa Kodo! 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-!["Progress lies not in enhancing what is, but in advancing towards what will be." -Khalil Gibran](https://github-readme-quotes.herokuapp.com/quote?theme=synthwave)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote="Progress lies not in enhancing what is, but in advancing towards what will be." -Khalil Gibran")](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## Tech Stack 
@@ -63,6 +61,7 @@
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+
 ## Music 
 
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
@@ -70,8 +69,6 @@
 
 
 ## Stats
-
-
 
 ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={nessakodo}&theme=minimal)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nessakodo}&theme=vue)
@@ -81,6 +78,7 @@
 
 
 ## Support Me
+
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)

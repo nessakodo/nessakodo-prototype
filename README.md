@@ -2,6 +2,9 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
+
+
 
 ## Tech Stack 
 
@@ -54,11 +57,10 @@
 
 ## Stats
 
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue)
+<!-- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=nessakodo&theme={synthwave})
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme={synthwave})
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
 
 ## Links 
 

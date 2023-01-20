@@ -55,12 +55,9 @@
 ## 𝘚𝘵𝘢𝘵𝘴
 
 #### 
-![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=synthwave)
-[![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave)
-
-<!-- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue) -->
+<!-- ![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave) -->
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=tokyonight)
+<!-- [![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave) -->
 
 
 ## 𝘓𝘪𝘯𝘬𝘴
@@ -92,7 +89,7 @@
 
 
 ####
-#### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
+#### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦

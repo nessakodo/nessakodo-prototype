@@ -19,8 +19,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -52,6 +52,15 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+## Stats
+
+![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={nessakodo}&theme=minimal)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nessakodo}&theme=vue)
+![Stats](https://github-readme-stats.vercel.app/api?username={nessakodo}&theme={synthwave})
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user={nessakodo}&theme={synthwave})
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
+
+## Links 
 
 ![NessaKodo.com](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -66,15 +75,6 @@
 
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Mixcloud](https://img.shields.io/badge/mix%20cloud-5000ff?style=for-the-badge&logo=mixcloud&logoColor=white)
-
-
-## Stats
-
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={nessakodo}&theme=minimal)
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nessakodo}&theme=vue)
-![Stats](https://github-readme-stats.vercel.app/api?username={nessakodo}&theme={synthwave})
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user={nessakodo}&theme={synthwave})
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
 
 
 ## Support Me

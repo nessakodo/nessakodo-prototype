@@ -1,6 +1,6 @@
 # Hi there, I'm Nessa Kodo! 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&quote="The+path+towards+progress+is+where+adventure+awaits.")](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+path+towards+progress+is+where+adventure+awaits.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## Tech Stack 

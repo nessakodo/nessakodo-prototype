@@ -1,12 +1,12 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
 
 
-##  <span style="color:pink">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓝𝓮𝓼𝓼𝓪 𝓚𝓸𝓭𝓸!</span>.
+##  𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙉𝙚𝙨𝙨𝙖 𝙆𝙤𝙙𝙤
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-## 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
+## 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
 
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -32,7 +32,7 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-## 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼
+## 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -41,7 +41,7 @@
 
 
 
-## 𝓦𝓸𝓻𝓴𝓯𝓵𝓸𝔀 𝓣𝓸𝓸𝓵𝓼
+## 𝘞𝘰𝘳𝘬𝘧𝘭𝘰𝘸 𝘛𝘰𝘰𝘭𝘴
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -50,19 +50,19 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
-## 𝓞𝓢
+## 𝘖𝘚
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## 𝓢𝓽𝓪𝓽𝓼
+## 𝘚𝘵𝘢𝘵𝘴
 
 <!-- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=nessakodo&theme={synthwave})
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme={synthwave})
 
-## 𝓛𝓲𝓷𝓴𝓼
+## 𝘓𝘪𝘯𝘬𝘴
 
 ![NessaKodo.com](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -73,13 +73,13 @@
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-## 𝓜𝓾𝓼𝓲𝓬
+## 𝘔𝘶𝘴𝘪𝘤
 
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Mixcloud](https://img.shields.io/badge/mix%20cloud-5000ff?style=for-the-badge&logo=mixcloud&logoColor=white)
 
 
-## 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮
+## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
 
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)

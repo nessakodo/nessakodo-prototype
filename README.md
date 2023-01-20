@@ -1,5 +1,5 @@
 
-# ʕっ• ᴥ • ʔっ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge-FF69B4?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
+# ʕっ• ᴥ • ʔっ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
 
 ## 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
 

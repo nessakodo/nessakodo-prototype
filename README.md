@@ -2,8 +2,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato.&quote=There’s+a+difference+between+knowing+the+path+and+walking+the+path.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote=There’s+a+difference+between+knowing+the+path+and+walking+the+path&theme=dark&layout=socrates)
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json)
 
 ## Tech Stack 
 

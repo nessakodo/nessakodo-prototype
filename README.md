@@ -65,19 +65,13 @@
 
 #### 
 [![NessaKodo.com](https://img.shields.io/badge/nessakodo.com-b325ae?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nessakodo.com)
-
 [![Instagram](https://img.shields.io/badge/Instagram-b325ae?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nessakodo/)
-
 [![Twitter](https://img.shields.io/badge/Twitter-b325ae?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NessaKodo)
-
 [![Twitch](https://img.shields.io/badge/Twitch-b325ae?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nessakodo)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWZbQMDx7YjkRh6M8bkrbIA)
-
+[![YouTube](https://img.shields.io/badge/YouTube-b325ae?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWZbQMDx7YjkRh6M8bkrbIA)
 [![Discord](https://img.shields.io/badge/Discord-b325ae?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KPsWXyK9cz)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b325ae?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessakodo/)
-
 [![Dev.to](https://img.shields.io/badge/dev.to-b325ae?style=for-the-badge&logo=dev.to&logoColor=white)![Email](https://img.shields.io/badge/Gmail-b325ae?style=for-the-badge&logo=gmail&logoColor=white)](https://dev.to/nessakodo)
 
 

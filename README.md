@@ -26,10 +26,12 @@
 <!-- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue) -->
 
+
 ## 𝘓𝘪𝘯𝘬𝘴
 
+#### [![NessaKodo.com](https://img.shields.io/badge/nessakodo.com-b325ae?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nessakodo.com)
 
-#### [![NessaKodo.com](https://img.shields.io/badge/nessakodo.com-b325ae?)](https://www.nessakodo.com)![Instagram](https://img.shields.io/badge/Instagram-b325ae?style=for-the-badge&logo=instagram&logoColor=white)![Twitter](https://img.shields.io/badge/Twitter-b325ae?style=for-the-badge&logo=twitter&logoColor=white)![Twitch](https://img.shields.io/badge/Twitch-b325ae?style=for-the-badge&logo=twitch&logoColor=white)![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)![Discord](https://img.shields.io/badge/Discord-b325ae?style=for-the-badge&logo=discord&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-b325ae?style=for-the-badge&logo=instagram&logoColor=white)![Twitter](https://img.shields.io/badge/Twitter-b325ae?style=for-the-badge&logo=twitter&logoColor=white)![Twitch](https://img.shields.io/badge/Twitch-b325ae?style=for-the-badge&logo=twitch&logoColor=white)![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)![Discord](https://img.shields.io/badge/Discord-b325ae?style=for-the-badge&logo=discord&logoColor=white)
 
 #### ![LinkedIn](https://img.shields.io/badge/LinkedIn-b325ae?style=for-the-badge&logo=linkedin&logoColor=white)![Dev.to](https://img.shields.io/badge/dev.to-b325ae?style=for-the-badge&logo=dev.to&logoColor=white)![Email](https://img.shields.io/badge/Gmail-b325ae?style=for-the-badge&logo=gmail&logoColor=white)
 

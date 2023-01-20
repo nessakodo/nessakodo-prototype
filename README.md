@@ -26,14 +26,14 @@
 <!-- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue) -->
 
-## 𝘓𝘪𝘯𝘬s
+## 𝘓𝘪𝘯𝘬𝘴
 
 #### ![NessaKodo.com](https://img.shields.io/badge/website-b325ae?style=for-the-badge&logo=About.me&logoColor=white)![Instagram](https://img.shields.io/badge/Instagram-b325ae?style=for-the-badge&logo=instagram&logoColor=white)![Twitter](https://img.shields.io/badge/Twitter-b325ae?style=for-the-badge&logo=twitter&logoColor=white)![LinkedIn](https://img.shields.io/badge/LinkedIn-b325ae?style=for-the-badge&logo=linkedin&logoColor=white)![Discord](https://img.shields.io/badge/Discord-b325ae?style=for-the-badge&logo=discord&logoColor=white)![Dev.to](https://img.shields.io/badge/dev.to-b325ae?style=for-the-badge&logo=dev.to&logoColor=white)![Email](https://img.shields.io/badge/Gmail-b325ae?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ## 𝘔𝘶𝘴𝘪𝘤
 
-#### ![SoundCloud](https://img.shields.io/badge/SoundCloud-b325ae?style=for-the-badge&logo=soundcloud&logoColor=white)![Mixcloud](https://img.shields.io/badge/mix%20cloud-b325ae?style=for-the-badge&logo=mixcloud&logoColor=white)
+#### ![SoundCloud](https://img.shields.io/badge/SoundCloud-b325ae?style=for-the-badge&logo=soundcloud&logoColor=white?link=http://left&link=http://https://soundcloud.com/nessakodo)![Mixcloud](https://img.shields.io/badge/mix%20cloud-b325ae?style=for-the-badge&logo=mixcloud&logoColor=white)
 
 
 
@@ -43,4 +43,6 @@
 
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
 
-#### ![Upwork](https://img.shields.io/badge/UpWork-b325ae?style=for-the-badge&logo=Upwork&logoColor=white)![Patreon](https://img.shields.io/badge/Patreon-b325ae?style=for-the-badge&logo=patreon&logoColor=white)![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-b325ae?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+![Upwork](https://img.shields.io/badge/UpWork-b325ae?style=for-the-badge&logo=Upwork&logoColor=white)
+![Patreon](https://img.shields.io/badge/Patreon-b325ae?style=for-the-badge&logo=patreon&logoColor=white)
+![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-b325ae?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)

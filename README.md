@@ -33,7 +33,9 @@
 
 ## 𝘔𝘶𝘴𝘪𝘤
 
-#### ![SoundCloud](https://img.shields.io/badge/SoundCloud-b325ae?style=for-the-badge&logo=soundcloud&logoColor=white?]https://soundcloud.com/nessakodo)![Mixcloud](https://img.shields.io/badge/mix%20cloud-b325ae?style=for-the-badge&logo=mixcloud&logoColor=white)
+#### 
+![SoundCloud](https://img.shields.io/badge/SoundCloud-b325ae?style=for-the-badge&logo=soundcloud&logoColor=white?]https://soundcloud.com/nessakodo)
+![Mixcloud](https://img.shields.io/badge/mix%20cloud-b325ae?style=for-the-badge&logo=mixcloud&logoColor=white)
 
 
 

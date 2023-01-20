@@ -3,21 +3,19 @@
 
 ## 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
 
-<!-- ff69b4 -->
-
 ![Node](https://img.shields.io/badge/Node.js-B7178C?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-B7178C?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-B7178C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-B7178C?style=for-the-badge&logo=react&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-B7178C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-B7178C?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-B7178C?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-B7178C?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-B7178C?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-B7178C?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-B7178C?style=for-the-badge&logo=python&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-B7178C?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-B7178C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-B7178C?style=for-the-badge&logo=sqlite&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-B7178C?style=for-the-badge&logo=solidity&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-B7178C?style=for-the-badge&logo=solidity&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-B7178C?style=for-the-badge&logo=Mocha&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-B7178C?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-B7178C?style=for-the-badge&logo=angular&logoColor=white)
@@ -31,7 +29,7 @@
 
 ## 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴
 
-#### ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)![Chakra](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### ![Bootstrap](https://img.shields.io/badge/bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)![MUI](https://img.shields.io/badge/Material%20UI-FF69B4?style=for-the-badge&logo=mui&logoColor=white)![Chakra](https://img.shields.io/badge/Chakra--UI-FF69B4?style=for-the-badge&logo=chakra-ui&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## 𝘞𝘰𝘳𝘬𝘧𝘭𝘰𝘸 𝘛𝘰𝘰𝘭𝘴

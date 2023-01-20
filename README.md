@@ -71,6 +71,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-b325ae?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWZbQMDx7YjkRh6M8bkrbIA)
 [![Discord](https://img.shields.io/badge/Discord-b325ae?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KPsWXyK9cz)
 
+
+## 𝘞𝘰𝘳𝘬
+
+####
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b325ae?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessakodo/)
 [![Dev.to](https://img.shields.io/badge/dev.to-b325ae?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nessakodo)
 [![Email](https://img.shields.io/badge/Gmail-b325ae?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessakodo@gmail.com)

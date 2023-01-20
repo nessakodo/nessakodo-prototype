@@ -1,6 +1,6 @@
 # Hi there, I'm Nessa Kodo! 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There’s+a+difference+between+knowing+the+path+and+walking+the+path.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?&theme=dark&quote=There’s+a+difference+between+knowing+the+path+and+walking+the+path.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## Tech Stack 

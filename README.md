@@ -12,8 +12,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -54,10 +54,10 @@
 
 ## Stats
 
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username={nessakodo}&theme=minimal)
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nessakodo}&theme=vue)
-![Stats](https://github-readme-stats.vercel.app/api?username={nessakodo}&theme={synthwave})
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user={nessakodo}&theme={synthwave})
+![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue)
+![Stats](https://github-readme-stats.vercel.app/api?username=nessakodo&theme={synthwave})
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme={synthwave})
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nessakodo}1212%2Fhit-counter)
 
 ## Links 

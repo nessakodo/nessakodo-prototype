@@ -1,3 +1,4 @@
+process.env;
 
 # ʕっ• ᴥ • ʔっ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23b325ae&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -55,7 +56,9 @@
 
 ## 𝘚𝘵𝘢𝘵𝘴
 
-#### ![Stats](https://github-readme-stats.vercel.app/api?username=nessakodo&theme={synthwave})![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme={synthwave})
+#### 
+![Stats](https://github-readme-stats.vercel.app/api?username=nessakodo&theme={synthwave})
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme={synthwave})
 
 <!-- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nessakodo&theme=minimal)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nessakodo&theme=vue) -->

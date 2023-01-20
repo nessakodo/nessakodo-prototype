@@ -72,7 +72,8 @@
 [![Discord](https://img.shields.io/badge/Discord-b325ae?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KPsWXyK9cz)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b325ae?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessakodo/)
-[![Dev.to](https://img.shields.io/badge/dev.to-b325ae?style=for-the-badge&logo=dev.to&logoColor=white)![Email](https://img.shields.io/badge/Gmail-b325ae?style=for-the-badge&logo=gmail&logoColor=white)](https://dev.to/nessakodo)
+[![Dev.to](https://img.shields.io/badge/dev.to-b325ae?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nessakodo)
+[![Email](https://img.shields.io/badge/Gmail-b325ae?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessakodo@gmail.com)
 
 
 ## 𝘔𝘶𝘴𝘪𝘤

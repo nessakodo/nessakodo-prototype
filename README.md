@@ -1,6 +1,6 @@
 # Hi there, I'm Nessa Kodo! 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&quote="Progress+lies+not+in+enhancing+what+is,+but+in+advancing+towards+what+will+be. - Khalil Gibran")](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato&quote="Progress+lies+not+in+enhancing+what+is,+but+in+advancing+towards+what+will+be.")](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## Tech Stack 

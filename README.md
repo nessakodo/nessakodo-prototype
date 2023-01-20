@@ -1,6 +1,6 @@
 # Hi there, I'm Nessa Kodo! 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato&quote="Progress+lies+not+in+enhancing+what+is,+but+in+advancing+towards+what+will+be.")](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato&quote="The path towards progress is where adventure awaits.")](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## Tech Stack 

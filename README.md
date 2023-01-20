@@ -1,6 +1,6 @@
 # Hi there, I'm Nessa Kodo! 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+path+towards+progress+is+where+adventure+awaits.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There’s+a+difference+between+knowing+the+path+and+walking+the+path.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## Tech Stack 

@@ -61,7 +61,7 @@
 <a href="https://github.com/nessakodo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nessakodo&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/nessakodo/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nessakodo&repo=convoychat" />
 </a>
 

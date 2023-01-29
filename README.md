@@ -55,9 +55,13 @@
 ## 𝘚𝘵𝘢𝘵𝘴
 
 #### 
-![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave)
+
+[![Nessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nessakodo)](https://github.com/nessakodo/github-readme-stats)
+
+
+<!-- ![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave) -->
 <!-- ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=tokyonight) -->
-[![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave)
+<!-- [![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave) -->
 
 
 ## 𝘓𝘪𝘯𝘬𝘴

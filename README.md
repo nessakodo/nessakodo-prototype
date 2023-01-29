@@ -56,7 +56,7 @@
 
 #### 
 
-[![Nessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nessakodo)](https://github.com/nessakodo/github-readme-stats)
+[![Nessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nessakodo&count_private=true&show_icons=true&theme=synthwave)](https://github.com/nessakodo/github-readme-stats)
 
 
 <!-- ![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave) -->

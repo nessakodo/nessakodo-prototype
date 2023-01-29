@@ -58,12 +58,12 @@
 
 [![Nessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nessakodo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nessakodo/github-readme-stats)
 
-<a href="https://github.com/nessakodo/github-readme-stats">
+<!-- <a href="https://github.com/nessakodo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nessakodo&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nessakodo&repo=convoychat" />
-</a>
+</a> -->
 
 
 <!-- ![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave) -->

@@ -55,9 +55,9 @@
 ## 𝘚𝘵𝘢𝘵𝘴
 
 #### 
-<!-- ![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave) -->
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=tokyonight)
-<!-- [![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave) -->
+![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave)
+<!-- ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=tokyonight) -->
+[![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave)
 
 
 ## 𝘓𝘪𝘯𝘬𝘴

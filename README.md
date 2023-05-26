@@ -52,11 +52,11 @@
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## 𝘚𝘵𝘢𝘵𝘴
+<!-- ## 𝘚𝘵𝘢𝘵𝘴 -->
 
-#### 
+<!-- ####  -->
 
-[![Nessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nessakodo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nessakodo/github-readme-stats)
+<!-- [![Nessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nessakodo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nessakodo/github-readme-stats) -->
 
 <!-- <a href="https://github.com/nessakodo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nessakodo&repo=github-readme-stats" />

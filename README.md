@@ -74,7 +74,7 @@
 ## 𝘓𝘪𝘯𝘬𝘴
 
 #### 
-[![Portfolio](https://img.shields.io/badge/nessakodo.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.nessakodo.github.io/dev)
+[![Portfolio](https://img.shields.io/badge/nessakodo.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nessakodo.github.io/dev)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nessakodo/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NessaKodo)
 [![Twitch](https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nessakodo)

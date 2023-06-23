@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35be2670.css",
+    "main.js": "/static/js/main.3c086067.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.c1b261c7daaded4fe95e.jpg",
+    "static/media/NessaKodoResume.pdf": "/static/media/NessaKodoResume.22f6fe2c27063d49dcdf.pdf",
+    "static/media/about.png": "/static/media/about.1c885e18add0eb93642c.png",
+    "static/media/logo.png": "/static/media/logo.5cff65baf5ef57fcb8e8.png",
+    "static/media/avatar.jpg": "/static/media/avatar.cdeae0777c55c9372556.jpg",
+    "static/media/suicide.png": "/static/media/suicide.830fcafd17cccea0aaf6.png",
+    "static/media/blog.png": "/static/media/blog.a64814f4c5708efb469e.png",
+    "static/media/chatify.png": "/static/media/chatify.da35c1f7193943a7ac3d.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.064612be4a3155160573.png",
+    "static/media/leaf.png": "/static/media/leaf.8f34802ce19f2dec265b.png",
+    "static/media/emotion.png": "/static/media/emotion.eec9207daed7600117ab.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.35be2670.css.map": "/static/css/main.35be2670.css.map",
+    "main.3c086067.js.map": "/static/js/main.3c086067.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35be2670.css",
+    "static/js/main.3c086067.js"
+  ]
+}
